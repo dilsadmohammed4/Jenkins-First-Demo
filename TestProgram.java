@@ -10,5 +10,6 @@ public class TestProgram {
         System.out.println("Output from java Program");
         System.out.println(new Date());
 		System.out.println("Output from 2nd commit - java Program");
+		System.out.println("Output from 3rd commit - java Program");
     }
 }
